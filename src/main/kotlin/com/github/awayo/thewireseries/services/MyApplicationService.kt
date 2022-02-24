@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.awayo.thewireseries.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.awayo.thewireseries.MyBundle
 
 class MyApplicationService {
 
